@@ -1,3 +1,4 @@
+#frontend is done by ayush and backend is done by rohit
 import os
 import requests
 import json
